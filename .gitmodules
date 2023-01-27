@@ -1,6 +1,3 @@
 [submodule "Prerequisites/rust-crash-course"]
 	path = Prerequisites/rust-crash-course
 	url = https://github.com/mainframezen/rust-crash-course
-[submodule "Prerequisites/--force"]
-	path = Prerequisites/--force
-	url = https://github.com/mainframezen/Cosmwasm-Zero-to-Hero
